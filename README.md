@@ -8,4 +8,4 @@ Simple Stocks is a simplified version of the Apple Stocks app with more relevant
 
 #### UI Mockups
 
-![Alt text](figma\home_page.PNG)
+![Alt text](figma\home_page.PNG?raw=true "Title")
